@@ -1,4 +1,4 @@
-# brain fog
+# BRAND HOOK
 
 **Crypto phishing-domain & brand-impersonation early warning system (open source, read-only, public data only).**
 
