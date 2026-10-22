@@ -1,8 +1,8 @@
-# BrandHook
+# brain fog
 
 **Crypto phishing-domain & brand-impersonation early warning system (open source, read-only, public data only).**
 
-Register your brand, and BrandHook watches Certificate Transparency logs for lookalike domains, correlates them with public
+Register your brand, and Brain Fog watches Certificate Transparency logs for lookalike domains, correlates them with public
 scam feeds, scores them with a transparent model, preserves timestamped evidence, alerts your team on Discord/Telegram, and
 drafts takedown reports. This repository is the **v0.1 backend MVP** (FastAPI + SQLite).
 
